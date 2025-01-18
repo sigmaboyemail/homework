@@ -1,0 +1,53 @@
+.box {
+    color: #f5f5f5;
+    background-color: #001e8d;
+    font-size: 48px;
+    font-weight: 700;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    height: 116px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.block {
+    width: 1440px;
+    height: 1024px;
+    background-color: #70ff7e;
+}
+
+.glass {
+    width: 451px;
+    height: 777px;
+    background-color: hsl(0, 0%, 2%);
+    border-radius: 20px;
+    margin: auto;
+}
+
+.svetofor {
+    background-color: #df3636;
+    margin: auto;
+    border: 5px solid #28e145;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.baba{
+background-color: #fde403;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+border:5px solid #28e145;
+margin: auto;
+
+}
+.baby{
+    background-color: #28e145;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+border:5px solid #28e145;
+margin: auto;
+}
